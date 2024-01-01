@@ -4,4 +4,4 @@ This project is inspired from [bkitano/llama-from-scratch](https://github.com/bk
 
 It uses Flax/Jax as the machine learning framework instead of Pytorch.
 
-It also fixes some of the issues in the original repo.
+It also includes improvements and fixes some of the issues in the original repo.
